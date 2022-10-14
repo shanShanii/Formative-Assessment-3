@@ -1,0 +1,32 @@
+body{
+	background-image: url(Beach.jpg) ;
+	background-repeat: no-repeat;
+}
+h1{ 
+	text-align: center;
+	background-color: #589000;
+	font-family: serif;
+	border: 2px dotter blue;
+	padding: 10px 15px;
+	width: 250px;
+	margin-bottom: 20px;
+}
+p{
+	justify-content: center;
+	background-color: rgb(255,255,150);
+	font-style: italic;
+	padding: 20px;
+	border-top: 3px solid black;
+	border-bottom: 2px dotter black;
+	border-left: 3px solid black;
+	border-right: 3px dotted black;
+	width: 500px;
+}
+span{
+	font-weight: bold;
+	font-style: italic;
+	color: rgb(250, 205, 255);
+	margin-left: 2px;
+	margin-right: 5px;
+}
+	
